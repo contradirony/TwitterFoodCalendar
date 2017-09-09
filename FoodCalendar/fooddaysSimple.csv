@@ -1,0 +1,210 @@
+Month	Day	Food	Week	DoW	International	Country
+1	1	Bloody Mary	0	0	0	USA
+1	2	Creampuff	0	0	0	USA
+1	3	Chocolate Covered Cherry	0	0	0	USA
+1	5	Whipped Cream	0	0	0	USA
+1	9	Cassoulet	0	0	0	USA
+1	19	Popcorn	0	0	0	USA
+1	22	Hot Sauce	0	0	0	USA
+1	23	Pie	0	0	0	USA
+1	24	Peanut Butter	0	0	0	USA
+1	27	Chocolate Cake	0	0	0	USA
+2	2	Tater Tot	0	0	0	USA
+2	7	Patty Melt	0	0	0	USA
+2	9	Pizza	0	0	0	USA
+2	16	Almond	0	0	0	USA
+2	22	Margarita	0	0	0	USA
+2	23	Banana Bread	0	0	0	USA
+2	29	Frog Legs	0	0	0	USA
+3	2	Banana Creme Pie	0	0	0	USA
+3	3	Canadian Bacon	0	0	0	USA
+3	5	Cheez Doodle	0	0	0	USA
+3	7	Crown Roast of Pork	0	0	0	USA
+3	8	Potato Salad	0	0	0	USA
+3	9	Crabmeat	0	0	0	USA
+3	9	Meatball	0	0	0	USA
+3	10	Blueberry Popover	0	0	0	USA
+3	11	Oatmeal Nut Waffles	0	0	0	USA
+3	12	Baked Scallops	0	0	0	USA
+3	23	Chips and Dip	0	0	0	USA
+3	27	Whiskey	0	0	1	USA
+3	31	Clams on the Half Shell	0	0	0	USA
+4	2	Peanut Butter and Jelly	0	0	0	USA
+4	5	Caramel	0	0	0	USA
+4	7	Beer	0	0	0	USA
+4	11	Cheese Fondue	0	0	0	USA
+4	12	Grilled Cheese Sandwich	0	0	0	USA
+4	15	Banana	0	0	0	USA
+4	17	Cheeseball	0	0	0	USA
+4	19	Garlic	0	0	0	USA
+4	22	Jellybean	0	0	0	USA
+4	24	Pigs in a Blanket	0	0	0	USA
+4	25	Zucchini Bread	0	0	0	USA
+4	26	Pretzel	0	0	0	USA
+4	27	Prime Rib	0	0	0	USA
+4	29	Shrimp Scampi	0	0	0	USA
+5	4	Candied Orange Peel	0	0	0	USA
+5	5	Hoagie	0	0	0	USA
+5	17	Walnut	0	0	0	USA
+5	18	Cheese Souffle	0	0	0	USA
+5	19	Devil's Food Cake	0	0	USA
+5	20	Quiche Lorraine	0	0	0	USA
+5	21	Strawberries and Cream	0	0	0	USA
+5	22	Vanilla Pudding	0	0	0	USA
+5	23	Taffy	0	0	0	USA
+5	24	Escargot	0	0	0	USA
+5	25	Wine	0	0	0	USA
+5	26	Blueberry Cheesecake	0	0	0	USA
+5	28	Burger	0	0	0	USA
+5	31	Macaroon	0	0	0	USA
+6	1	Hazelnut Cake	0	0	0	USA
+6	2	Rocky Road	0	0	0	USA
+6	3	Egg	0	0	0	USA
+6	4	Cheese	0	0	0	USA
+6	5	Gingerbread	0	0	0	USA
+6	6	Applesauce Cake	0	0	0	USA
+6	7	Chocolate Ice Cream	0	0	0	USA
+6	10	Iced Tea	0	0	0	USA
+6	11	Corn on the Cob	0	0	0	USA
+6	12	Peanut Butter Cookie	0	0	0	USA
+6	14	Strawberry Shortcake	0	0	0	USA
+6	15	Lobster	0	0	0	USA
+6	16	Fudge	0	0	0	USA
+6	17	Eat Your Vegetables	0	0	0	USA
+6	19	Martini	0	0	0	USA
+6	20	Ice Cream Soda	0	0	0	USA
+6	21	Peaches and Cream	0	0	0	USA
+6	22	Onion Ring	0	0	0	USA
+6	25	Catfish	0	0	0	USA
+6	26	Chocolate Pudding	0	0	0	USA
+6	27	Orange Blossom	0	0	0	USA
+6	28	Tapioca	0	0	0	USA
+6	30	Mai Tai	0	0	0	USA
+7	1	Gingersnap	0	0	0	USA
+7	2	Anisette	0	0	0	USA
+7	3	Chocolate Wafer	0	0	0	USA
+7	4	Spareribs	0	0	0	USA
+7	5	Apple Turnover	0	0	0	USA
+7	6	Fried Chicken	0	0	0	USA
+7	7	Macaroni	0	0	0	USA
+7	8	Chocolate with Almonds	0	0	0	USA
+7	9	Sugar Cookie	0	0	0	USA
+7	10	Pina colada	0	0	0	USA
+7	11	Blueberry Muffin	0	0	0	USA
+7	12	Pecan Pie	0	0	0	USA
+7	13	French Fries	0	0	0	USA
+7	14	Grand Marnier	0	0	0	USA
+7	15	Tapioca Pudding	0	0	0	USA
+7	16	Corn Fritter	0	0	0	USA
+7	17	Peach Ice Cream	0	0	0	USA
+7	18	Caviar	0	0	0	USA
+7	19	Daiquiri	0	0	0	USA
+7	20	Lollipop	0	0	0	USA
+7	21	Junk Food	0	0	0	USA
+7	22	Penuche Fudge	0	0	0	USA
+7	23	Hot Dog	0	0	0	USA
+7	24	Tequila	0	0	0	USA
+7	25	Hot Fudge Sundae	0	0	0	USA
+7	26	Coffee Milkshake	0	0	0	USA
+7	27	Creme Brulee	0	0	0	USA
+7	28	Milk Chocolate	0	0	0	USA
+7	29	Lasagne	0	0	0	USA
+7	30	Cheesecake	0	0	0	USA
+7	31	Raspberry Cake	0	0	0	USA
+8	1	Milkshake	0	0	0	USA
+8	3	Watermelon	0	0	0	USA
+8	4	Chocolate Chip Cookie	0	0	0	USA
+8	5	Oyster	0	0	0	USA
+8	7	Beer	0	0	1	USA
+8	9	Rice Pudding	0	0	0	USA
+8	10	S'more	0	0	0	USA
+8	13	Filet Mignon	0	0	0	USA
+8	14	Creamsicle	0	0	0	USA
+8	15	Lemon Miringue Pie	0	0	0	USA
+8	16	Rum	0	0	0	USA
+8	17	Vanilla Custard	0	0	0	USA
+8	18	Pinot Noir	0	0	0	USA
+8	19	Potato	0	0	0	USA
+8	21	Spumoni	0	0	0	USA
+8	23	Sponge Cake	0	0	0	USA
+8	24	Waffle	0	0	0	USA
+8	25	Banana Split	0	0	0	USA
+8	26	Cherry Popsicle	0	0	0	USA
+8	28	Cherry Turnover	0	0	0	USA
+8	29	Lemon Juice	0	0	0	USA
+8	30	Toasted Marshmallow	0	0	0	USA
+8	31	Trail Mix	0	0	0	USA
+9	1	Cherry Popover	0	0	0	USA
+9	2	Bacon	0	0	1	USA
+9	3	Welsh Rarebit	0	0	0	USA
+9	4	Macademia Nut	0	0	0	USA
+9	5	Cheese Pizza	0	0	0	USA
+9	6	Coffee Ice Cream	0	0	0	USA
+9	7	Salami	0	0	0	USA
+9	9	Steak Au Poivre	0	0	0	USA
+9	11	Hot Cross Bun	0	0	0	USA
+9	12	Chocolate Milkshake	0	0	0	USA
+9	13	Chocolate	0	0	1	USA
+9	15	Linguine	0	0	0	USA
+9	16	Guacamole	0	0	0	USA
+9	17	Monte Cristo Sandwich	0	0	0	USA
+9	18	Cheeseburger	0	0	0	USA
+9	19	Butterscotch Pudding	0	0	0	USA
+9	20	Punch	0	0	0	USA
+9	21	Pecan Cookie	0	0	0	USA
+9	25	Lobster	0	0	0	USA
+9	26	Pancake	0	0	0	USA
+9	27	Corned Beef Hash	0	0	0	USA
+9	28	Strawberry Cream Pie	0	0	0	USA
+9	29	Biscotti	0	0	0	USA
+9	30	Hot Mulled Cider	0	0	0	USA
+10	4	Taco	0	0	0	USA
+10	6	Noodle	0	0	0	USA
+10	11	Sausage Pizza	0	0	0	USA
+10	14	Dessert	0	0	0	USA
+10	18	Chocolate Cupcake	0	0	0	USA
+10	20	Brandied Fruit	0	0	0	USA
+10	23	Boston Creme Pie	0	0	0	USA
+10	24	Bologna	0	0	0	USA
+10	28	Chocolate	0	0	0	USA
+10	29	Oatmeal	0	0	0	USA
+10	30	Candy Corn	0	0	0	USA
+10	31	Candy Apple	0	0	0	USA
+11	1	Vinegar	0	0	0	USA
+11	2	Deviled Egg	0	0	0	USA
+11	3	Sandwich	0	0	0	USA
+11	4	Candy	0	0	0	USA
+11	6	Nachos	0	0	0	USA
+11	8	Cappuccino	0	0	0	USA
+11	9	Scrapple	0	0	0	USA
+11	10	Vanilla Cupcake	0	0	0	USA
+11	11	Sundae	0	0	0	USA
+11	13	Indian Pudding	0	0	0	USA
+11	14	Pickle	0	0	0	USA
+11	15	Bundt	0	0	0	USA
+11	17	Bread	0	0	0	USA
+11	18	Apple Cider	0	0	0	USA
+11	20	Peanut Butter Fudge	0	0	0	USA
+11	21	Stuffing	0	0	0	USA
+11	23	Cashew	0	0	0	USA
+11	25	Parfait	0	0	0	USA
+11	26	Cake	0	0	0	USA
+11	28	French Toast	0	0	0	USA
+11	29	Lemon Cream Pie	0	0	0	USA
+11	30	Mousse	0	0	0	USA
+12	2	Fritters	0	0	0	USA
+12	4	Cookie	0	0	0	USA
+12	8	Brownie	0	0	0	USA
+12	9	Pastry	0	0	0	USA
+12	10	Lager	0	0	0	USA
+12	13	Hot Cocoa	0	0	0	USA
+12	15	Cupcake	0	0	0	USA
+12	17	Maple Syrup	0	0	0	USA
+12	20	Sangria	0	0	0	USA
+12	21	Hamburger	0	0	0	USA
+12	22	Date Nute Bread	0	0	0	USA
+12	24	Eggnog	0	0	0	USA
+12	25	Pumpkin Pie	0	0	0	USA
+12	27	Fruitcake	0	0	0	USA
+12	30	Bicarbonate of Soda	0	0	0	USA
+12	31	Champagne	0	0	0	USA
